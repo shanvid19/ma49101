@@ -1,0 +1,2 @@
+1- Gaussian Elimination
+2- Gaussian Elimination with Partial Pivoting
